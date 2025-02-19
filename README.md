@@ -1,5 +1,5 @@
 # Predicting-Hazardous-NEOs-Nearest-Earth-Objects-
-****📌 Project Overview:****
+******📌 Project Overview:******
 
 This project aims to predict whether a Near-Earth Object (NEO) is hazardous using machine learning techniques. The dataset is processed, balanced using SMOTE, and trained using models like Gradient Boosting and XGBoost. Model performance is evaluated with metrics like accuracy, confusion matrix, and classification reports.
 
